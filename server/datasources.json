@@ -1,0 +1,12 @@
+{
+  "mysql": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "url": "mysql://root@127.0.0.1/test",
+    "database": "test",
+    "password": "",
+    "name": "mysql",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
